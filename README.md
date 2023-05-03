@@ -1,4 +1,4 @@
-First you have to find realtable question in "QuestionLocataionReact_Etp.txt", then tou get the location of folder or Js file, tap on that folder and then select file which is similar to your question and get the code of that question in jsx.
+# First you have to find realtable question in "QuestionLocataionReact_Etp.txt", then tou get the location of folder or Js file, tap on that folder and then select file which is similar to your question and get the code of that question in jsx.
 
 # Getting Started with Create React App
 
