@@ -1,0 +1,57 @@
+//Three folder are there in src file which is Question(H,V,P), all carries diffrent problems of react in js file.
+
+
+Question_H
+q1.js) Create a react Js Component To perform A filter operation on an array , take your array of your on.
+
+q2.js) Create a component by adding button sumbit 1 and 2 and 3 and render on user click it should alert which button should click.
+
+q3.js) Create a copmponent to upload only images , display the uploaded image in a square box and dispkay in a browser , you can use multiple images at a same time.
+
+q4.js) Implement a search functionality in react that alolow s user to filter the list of items based on search querry enterd in input field 
+
+q5.js) craete a componet that display the carousel of images allow the user to navigate threw images through previous and next button use UseState hook ,to manage the current image index and the use effect hook to fetch the images when the component get mount
+
+
+
+//
+Question_V
+q1}Using properties make one table with rows and columns.
+q2}Using api fetch the data.
+q3}Create a react form to make a new item in the table.
+q4}Display the slide show of image.
+q5}Search from the content of the table
+q6}Display the shopping cart before the online delivery {Add to cart functionality}
+q7}Display the countdown timer
+q8}Create the form.
+q9}Display the progress bar   {Analysis of 5 student marks}.
+q10}Display the login form    -> landing page welcome to lpu
+q11}Display the list of items
+q12}Changing the color button and message of submit button
+q13}Increment /decrement button
+
+
+//
+Question_P
+
+q1. Display Current Date and Time in JSX in React JS. Use two buttons for the date and time. While clicking it displays the data and time.
+
+q2. Creating Simple Greeting Website using React JS. Use text boxes for the same. Website will greet you according to time. As if the time is from 5 am to 12 noon it says good morning and colour of good morning must be green. As if the time is from 12 noon to 3 pm it says good afternoon and colour of good morning must be red. And so on. 
+
+q3 .Create Simple Calculator App in React JS.
+
+q4. Create five cards which includes four inputs and pass the data in these cards through props. e.g., card must have one image, one logo and two headers. If anyone click on the card then it must lead the user to next page.
+
+q5. How to get Time on Refreshing and Clicking Button using useState Hook. 
+
+q6.Create a Digital Clock using React JS
+
+q7. Create a login form with three entries. When you will click on the submit button on the form it must show form is submitted and all the values that you are storing tn the fields must be shown on the header. 
+
+q8. Write a code for Incrementing and Decrementing the State Variable on Button clicked in React JS.
+
+q9. Install the boot strap in your react project and use the bootstrap features. Create a navbar there and open the options given in the navbar when it is clicked.
+
+q10. Demonstrate the use of useEffect and useMemo hook through your code.
+
+q11. Demonstrate the use of useRef,useContext and useReducer hook through your code.
