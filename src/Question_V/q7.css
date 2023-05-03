@@ -1,0 +1,17 @@
+.countdown-timer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    margin: 2rem;
+  }
+  
+  .countdown-timer h2 {
+    margin: 0;
+  }
+  
+  .countdown-timer p {
+    margin: 0;
+  }
+  

@@ -1,0 +1,5 @@
+q1.js) Create a react Js Component To perform A filter operation on an array , take your array of your on.
+q2.js) Create a component by adding button sumbit 1 and 2 and 3 and render on user click it should alert which button should click.
+q3.js) Create a copmponent to upload only images , display the uploaded image in a square box and dispkay in a browser , you can use multiple images at a same time.
+q4.js) Implement a search functionality in react that alolow s user to filter the list of items based on search querry enterd in input field 
+q5.js) craete a componet that display the carousel of images allow the user to navigate threw images through previous and next button use UseState hook ,to manage the current image index and the use effect hook to fetch the images when the component get mount
